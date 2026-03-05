@@ -45,19 +45,25 @@ Digital Support / Receptionist: Provided customer service focused on digital inc
 Technical Intern: Conducted administrative and technical support, ensuring data integrity for public services.
 
 🔧 How to Run Locally
+
 Clone the repository:
 
 Bash
+
 git clone https://github.com/pablotheves/pablothevesportfolio.git
+
 Install dependencies:
 
 Bash
 npm install
+
 Start the development server:
 
 Bash
 npm run dev
-View in browser: Open http://localhost:5173.
+
+View in browser: 
+Open http://localhost:5173.
 
 ✉️ Contact & Links
 LinkedIn: pablotheves1
